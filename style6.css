@@ -1,0 +1,60 @@
+body{
+    background: #cdcdcd;
+    font-family: 'Roboto' , sans-serif;
+
+}
+
+.wrapper{
+    margin-top: 10%;
+}
+
+.wrapper h1{
+    font-family: 'Roboto' , sans-serif;
+    font-size: 52px;
+    margin-bottom: 60px;
+    text-align: center;
+    color: #8e8b8b;
+}
+
+.team{
+    display:flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
+
+.team .team_member{
+    background: #ff44ae7a;
+    margin: 5px;
+    margin-bottom: 50px;
+    width: 300px;
+    padding:30px;
+    line-height: 20px;
+    color: #8e8b8b;
+    position: relative;
+}
+
+
+.team .team_member h3{
+    color: #ffffff;
+    font-size: 26px ;
+    margin-top: 43px;
+}
+
+.team .team_member p.role{
+    color:#ccc;
+    font-size: 12px;
+    text-transform:uppercase;
+    margin: 12px 0;
+
+}
+
+.team .team_member .team_img{
+    
+    border-radius: 50%;
+    border-color: #000000;
+    border-radius: 50%;
+
+}
+
+
